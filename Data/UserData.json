@@ -1,24 +1,27 @@
 [
   {
     "id": 1,
-    "name": "vyshnav",
-    "email": "vyshnav@gmail.com",
-    "UserName": "vyshnav"
-  },
-  {
-    "id": 3,
     "name": "jasir",
     "email": "jasir@gmail.com",
     "UserName": "jasir"
   },
   {
+    "id": 3,
+    "name": "vyshnav",
+    "email": "vyshnav@gmail.com",
+    "UserName": "vyshnav"
+  },
+
+  {
     "id": 4,
     "name": "irfan",
-    "email": "irfan@gmail.com", 
-    "UserName": "irfan" 
-},
-  { "id": 2,
-    "name": "tiger",
-     "email": "tiger@gmail.com"
-     }
+    "email": "irfan@gmail.com",
+    "UserName": "irfan"
+  },
+  {
+    "id": 2,
+    "name": "Farhan",
+    "email": "farhan@gmail.com",
+    "UserName": "farhan"
+  }
 ]
